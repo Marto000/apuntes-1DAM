@@ -1,4 +1,4 @@
-# \#Apuntes de 1º DAM 
+# Apuntes de 1Âº DAM 
 
-# Repositorio de apuntes y ejercicios de los módulos de 1º Desarrollo de Aplicaciones Multiplataforma
+Repositorio de apuntes y ejercicios de los mÃ³dulos de 1Âº Desarrollo de Aplicaciones Multiplataforma
 
